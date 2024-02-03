@@ -1,0 +1,34 @@
+package com.servlets;
+import java.io.IOException;
+
+import jakarta.servlet.*;
+public class FirstServlet implements Servlet {
+	//life cycle method
+	
+	ServletConfig conf;
+	
+	public void init(ServletConfig conf) {
+		this.conf = conf;
+		System.out.println("creating object..");
+	}
+	
+	public void service(ServletRequest req, ServletResponse resp) throws ServletException, IOException{
+		System.out.println("Servicing...");
+		
+	}
+	
+	public void destroy() {
+		System.out.println("going to destroy serlet object");
+	}
+	
+//	non life cycle methods
+	
+	public ServletConfig getServletConfig() {
+		return this.conf;
+	}
+	public String getServletInfo() {
+		return "this servlet is crate by..";
+	}
+}
+	
+

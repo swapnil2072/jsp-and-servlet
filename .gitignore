@@ -1,0 +1,58 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ project files
+.idea/
+
+# Compiled class files
+target/
+*.class
+
+# Logs
+*.log
+log/
+logs/
+
+# Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.backup
+/.mvn
+
+# Gradle specific files
+build/
+.gradle/
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ project files
+.idea/
+
+# Compiled class files
+target/
+*.class
+
+# Logs
+*.log
+log/
+logs/
+
+# Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.backup
+/.mvn
+
+# Gradle specific files
+build/
+.gradle/
