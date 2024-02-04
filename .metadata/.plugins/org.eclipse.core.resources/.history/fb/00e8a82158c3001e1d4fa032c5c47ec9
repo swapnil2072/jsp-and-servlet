@@ -2,8 +2,8 @@ package com.servlets;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Date;
-import jakarta.servlet.*;
 
+import jakarta.servlet.*;
 public class FirstServlet implements Servlet {
 	//life cycle method
 	
