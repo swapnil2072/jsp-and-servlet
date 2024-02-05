@@ -1,0 +1,9 @@
+package com.servlets;
+
+import jakarta.servlet.*;
+import jakarta.servlet.http.*;
+
+
+public class  extends HttpServlet {
+
+}

@@ -10,10 +10,7 @@
   	<servlet-name>second</servlet-name>
   	<servlet-class>com.servlets.SecondServlet</servlet-class>
   </servlet>
-  <servlet>
-  	<servlet-name>third</servlet-name>
-  	<servlet-class>com.servlets.ThirdServlet</servlet-class>
-  </servlet>
+  
   <!-- mapping -->
   
   <servlet-mapping>
@@ -23,10 +20,6 @@
   <servlet-mapping>
   	<servlet-name>second</servlet-name>
   	<url-pattern>/web2</url-pattern>
-  </servlet-mapping>
-   <servlet-mapping>
-  	<servlet-name>third</servlet-name>
-  	<url-pattern>/web3</url-pattern>
   </servlet-mapping>
   
   <display-name>Ztest</display-name>

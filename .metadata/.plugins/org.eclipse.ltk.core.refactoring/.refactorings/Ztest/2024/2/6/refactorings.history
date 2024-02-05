@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.servlets.HttpServlet.java&apos; to &apos;ThirdServlet.java&apos;&#x0D;&#x0A;- Original project: &apos;Ztest&apos;&#x0D;&#x0A;- Original element: &apos;com.servlets.HttpServlet.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.servlets.ThirdServlet.java&apos;" description="Rename compilation unit &apos;HttpServlet.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;com.servlets{HttpServlet.java" name="ThirdServlet.java" references="false" stamp="1707154500410" version="1.0"/>
+</session>
