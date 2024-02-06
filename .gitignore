@@ -56,3 +56,4 @@ pom.xml.backup
 # Gradle specific files
 build/
 .gradle/
+/.metadata/
